@@ -1,24 +1,27 @@
 ## Introduction
 
+| <b>Discipline  | <b> ELECTRONICS                            |
+| :------------- | :----------------------------------------- |
+| <b> Lab        | <b> Signal System                          |
+| <b> Experiment | <b> 1. Calculating transforms using Matlab |
 
-<b>Discipline | <b>Fill your discipline name here
-:--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+### About The Experiment
 
-### About the Experiment 
+Calculating transforms using MATLAB <br>
+a. Calculate and plot Fourier transform of a given signal. <br>
+b. Calculate and plot Z-transform of a given signal.
 
-Fill a brief description of this experiment here
-
-<b>Name of Developer | <b> Fill the name of experiment owner here 
-:--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+| <b>Name of Developer | <b> Dr. Rajeev Baghel                   |
+| :------------------- | :-------------------------------------- |
+| <b> Institute        | <b> Rajkiya Engineering College Kannauj |
+| <b> Email id         | <b> rajeev@reck.ac.in                   |
+| <b> Department       | Department of Electronics Engineering   |
 
 ### Contributors List
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+| SrNo | Name                   | Faculty or Student | Department                                   | Institute                           | Email id                      |
+| :--- | :--------------------- | :----------------- | :------------------------------------------- | :---------------------------------- | :---------------------------- |
+| 1    | Aditya Kumar Pandey    | Student            | Department of Computer Science & Engineering | Rajkiya Engineering College Kannauj | scholar.akp@gmail.com         |
+| 2    | Avinash Kumar Baranwal | Student            | Department of Electronics Engineering        | Rajkiya Engineering College Kannauj | avinashbaranwal70@gmail.com   |
+| 3    | Prakash Jayswal        | Student            | Department of Electrical Engineering         | Rajkiya Engineering College Kannauj | prakashjaisawal961@gmail.com  |
+| 4    | Rajdheer               | Student            | Department of Electronics Engineering        | Rajkiya Engineering College Kannauj | vishwakarmarajdheer@gmail.com |

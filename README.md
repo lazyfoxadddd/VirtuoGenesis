@@ -1,9 +1,9 @@
 ## Introduction
 
-| <b>Discipline  | <b> ELECTRONICS                            |
-| :------------- | :----------------------------------------- |
-| <b> Lab        | <b> Signal System                          |
-| <b> Experiment | <b> 1. Calculating transforms using Matlab |
+| <b>Discipline  | <b> ELECTRONICS                                                      |
+| :------------- | :------------------------------------------------------------------- |
+| <b> Lab        | <b> Signal System                                                    |
+| <b> Experiment | <b> 1. Calculate and plot Fourier and Z-transforms of a given signal |
 
 ### About The Experiment
 
